@@ -39,3 +39,4 @@ A REST API server (written using FastAPI) for Mem0 MemoryClient. Users can perfo
 # Reference
 
 https://github.com/mem0ai/mem0/tree/main/server
+https://docs.mem0.ai/api-reference
