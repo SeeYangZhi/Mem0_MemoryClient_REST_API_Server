@@ -1,4 +1,6 @@
-# Mem0 MemoryClient REST API Server
+# Mem0 MemoryClient REST API Server (Archived)
+
+- Refer to https://docs.mem0.ai/api-reference/memory/ and use curl to https://api.mem0.ai/v1/ or https://api.mem0.ai/v2
 
 A REST API server (written using FastAPI) for Mem0 MemoryClient. Users can perform all operations through REST endpoints. The API also includes OpenAPI documentation, accessible at `/docs` when the server is running.
 
